@@ -1,0 +1,27 @@
+/* Top Bar */
+
+.header-container {
+  width: 100%;
+  background-color: slategray;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.header-container h1 {
+  color: white;
+  margin: 0;
+}
+
+.button {
+  display: inline-flex;
+  align-items: center;
+  padding: 10px 20px;
+  margin: 10px;
+  border-radius: 4px;
+  cursor: pointer;
+  background-color: white;
+  color: black;
+  border: none;
+}

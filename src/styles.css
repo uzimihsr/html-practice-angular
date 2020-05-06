@@ -1,5 +1,14 @@
 /* You can add global styles to this file, and also import other style files */
 /* everywhere else */
+body {
+  margin: 0;
+}
+
+a {
+  cursor: pointer;
+  text-decoration: none;
+}
+
 * {
   font-family: Arial, Helvetica, sans-serif;
 }
