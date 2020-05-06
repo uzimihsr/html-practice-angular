@@ -6,10 +6,10 @@ https://uzimihsr.github.io/html-practice-angular/
 ## GitHub Pages での公開手順
 
 ```bash
-$ git clone https://github.com/uzimihsr/angular-tour-of-heroes.git
-$ cd angular-tour-of-heroes
+$ git clone https://github.com/uzimihsr/html-practice-angular.git
+$ cd html-practice-angular
 $ ng add angular-cli-ghpages
-$ ng deploy --base-href=/angular-tour-of-heroes/
+$ ng deploy --base-href=/html-practice-angular/
 ```
 
 ---
